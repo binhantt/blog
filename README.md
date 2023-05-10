@@ -6,7 +6,9 @@ npm init  index.js
  node --save -dev
 "scripts": {
     "start": " nodemon --inspect index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1
   },
+  temmis
+  mom start
  ||
 npm  i mogrgan --save -dev
